@@ -2,8 +2,6 @@
 
 A full-stack data analytics project for a **Telecom company** — covering ETL in SQL Server, an interactive Power BI dashboard, and a Machine Learning model to predict future churners.
 
-> 📖 Full project walkthrough: [pivotalstats.com](https://pivotalstats.com/end-end-churn-analysis-portfolio-project/)
-
 ---
 
 ## 🗺️ Project Architecture
@@ -159,21 +157,6 @@ A dedicated **Churn Prediction Page** built on `Predictions.csv`:
 3. Run `churn_analysis.ipynb` in Jupyter Notebook to generate `Predictions.csv`
 4. Open `churn_analysis_enhanced.pbix` in Power BI Desktop and refresh data sources
 
----
-
-## 📊 Dashboard Preview
-
-| Summary Page | Prediction Page |
-|---|---|
-| ![Summary](screenshots/summary_page.png) | ![Predictions](screenshots/prediction_page.png) |
-
----
-
-## 👤 Author
-
-**Sajit Simon** — [pivotalstats.com](https://pivotalstats.com)
-
----
 
 ## 📜 License
 
