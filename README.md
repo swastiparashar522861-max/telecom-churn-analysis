@@ -156,7 +156,8 @@ A dedicated **Churn Prediction Page** built on `Predictions.csv`:
 2. Export `vw_ChurnData` and `vw_JoinData` from SQL Server to `prediction_data.xlsx`
 3. Run `churn_analysis.ipynb` in Jupyter Notebook to generate `Predictions.csv`
 4. Open `churn_analysis_enhanced.pbix` in Power BI Desktop and refresh data sources
-
+## 👤 Author
+Swasti Parashar |@swastiparashar522861-max| www.linkedin.com/in/swasti-parashar-178a4a3b8 
 
 ## 📜 License
 
