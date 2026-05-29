@@ -143,6 +143,11 @@ A dedicated **Churn Prediction Page** built on `Predictions.csv`:
 - Customer-level grid with Monthly Charge, Revenue, Refunds, Referrals
 
 ---
+## 📊 Dashboard Preview
+
+| Summary Page | Prediction Page |
+|---|---|
+| ![Summary](screenshots/Screenshot%202026-05-29%20153917.png) | ![Predictions](screenshots/Screenshot%202026-05-29%20154049.png) |
 
 ## 🚀 How to Run This Project
 
